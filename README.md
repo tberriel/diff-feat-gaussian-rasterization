@@ -1,6 +1,7 @@
 # Differential Gaussian Rasterization
 
-Used as the rasterization engine for the paper "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields". If you can make use of it in your own research, please be so kind to cite us.
+Modified version of the rasterization engine for the paper "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields". This fork rasterizes 32 channels rather than 3.
+If you can make use of it in your own research, please be so kind to cite the original work.
 
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
